@@ -17,7 +17,7 @@
   flex-flow: column;
   min-height: 100vh;
   padding:10px 7%;
-  background: linear-gradient(90deg, #2980b9 50%, #eee 50.1%);
+  background: linear-gradient(90deg, #d819bb 50%, #eee 50.1%);
 }
 
 .container .product-container{
@@ -30,7 +30,7 @@
   flex:1 1 300px;
   padding:20px;
   border-radius: 5px;
-  background:#fff;
+  background:#8f6262;
   box-shadow: 0 5px 10px rgba(0,0,0,.3);
   text-align: center;
 }
@@ -41,12 +41,12 @@
 
 .container .product-container .product h3{
   font-size: 25px;
-  color:#666;
+  color:#c847ce;
 }
 
 .container .product-container .product .amount{
   padding:10px 0;
-  color:#2980b9;
+  color:#0099ff;
   font-weight: bolder;
 }
 
@@ -81,7 +81,7 @@
   align-items: center;
   padding:20px;
   border-radius: 5px;
-  background:#bdb3b3;
+  background:#ba4d4d;
   box-shadow: 0 5px 10px rgba(0,0,0,.3);
 }
 
@@ -96,7 +96,7 @@
   height:50px;
   width:150px;
   border-radius: 90px;
-  background:#e0e4e6;
+  background:#1b88be;
   position: relative;
   cursor: pointer;
 }
